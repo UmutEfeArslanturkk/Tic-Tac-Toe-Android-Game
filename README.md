@@ -21,6 +21,8 @@ cd tic-tac-toe</code></pre>
         <li><strong>Uygulamayı Çalıştırın:</strong> Emülatör veya fiziksel cihazınızı seçtikten sonra <strong>Run (▶️)</strong> butonuna tıklayarak uygulamayı başlatın.</li>
     </ol>
 
+    ![image](https://github.com/user-attachments/assets/26d4e8de-f7ae-4d05-ad23-78cc0c452e4a)
+<img src="![image](https://github.com/user-attachments/assets/26d4e8de-f7ae-4d05-ad23-78cc0c452e4a)" />
   <h3>2️⃣ APK Dosyası ile Kurulum</h3>
     <ol>
         <li><strong>APK Dosyasını İndirin:</strong> <a href="https://drive.google.com/file/d/1P5zl0oqRdeK9PtzPyHPswrnB2x6bASqZ/view?usp=sharing">Buradan en son sürümü indirin.</a></li>
