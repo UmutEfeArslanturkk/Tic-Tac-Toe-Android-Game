@@ -23,7 +23,7 @@ cd tic-tac-toe</code></pre>
 
   <h3>2️⃣ APK Dosyası ile Kurulum</h3>
     <ol>
-        <li><strong>APK Dosyasını İndirin:</strong> <a href="https://github.com/kullanici/tic-tac-toe/releases">Buradan en son sürümü indirin.</a></li>
+        <li><strong>APK Dosyasını İndirin:</strong> <a href="https://drive.google.com/file/d/1P5zl0oqRdeK9PtzPyHPswrnB2x6bASqZ/view?usp=sharing">Buradan en son sürümü indirin.</a></li>
         <li><strong>APK Dosyasını Cihaza Aktarın:</strong> Bilgisayarınızdan telefonunuza dosya aktarımı yaparak APK'yı taşıyın veya doğrudan cihazınıza indirin.</li>
         <li><strong>Güvenlik Ayarlarını Kontrol Edin:</strong> Telefonunuzda <strong>Bilinmeyen Kaynaklardan Yüklemeye İzin Ver</strong> ayarını etkinleştirin.</li>
         <li><strong>APK'yı Kurun:</strong> APK dosyasına dokunun ve ekrandaki yönergeleri takip ederek kurulumu tamamlayın.</li>
