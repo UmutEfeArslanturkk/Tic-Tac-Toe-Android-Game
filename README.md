@@ -29,10 +29,7 @@ cd tic-tac-toe</code></pre>
         <li><strong>APK'yı Kurun:</strong> APK dosyasına dokunun ve ekrandaki yönergeleri takip ederek kurulumu tamamlayın.</li>
         <li><strong>Oyunu Başlatın:</strong> Uygulama listesinden <strong>Tic Tac Toe</strong> oyununu açın ve oynamaya başlayın!</li>
     </ol>
-
-  <h2>📜 Lisans</h2>
-    <p>Bu proje <strong>MIT Lisansı</strong> ile lisanslanmıştır. Daha fazla bilgi için <a href="https://opensource.org/licenses/MIT">buraya tıklayın</a>.</p>
-
+    
   <h2>📞 İletişim</h2>
     <p>Herhangi bir sorunuz veya geri bildiriminiz varsa benimle iletişime geçebilirsiniz:</p>
     <ul>
