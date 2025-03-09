@@ -33,8 +33,8 @@ cd tic-tac-toe</code></pre>
   <h2>📞 İletişim</h2>
     <p>Herhangi bir sorunuz veya geri bildiriminiz varsa benimle iletişime geçebilirsiniz:</p>
     <ul>
-        <li>📧 E-posta: <a href="mailto:umutefearslanturkdev.com">ornek@email.com</a></li>
-        <li>🐙 GitHub: <a href="https://github.com/umutefearslanturkk">github.com/kullanici</a></li>
+        <li>📧 E-posta: <a href="mailto:umutefearslanturkdev.com">Mail</a></li>
+        <li>🐙 GitHub: <a href="https://github.com/umutefearslanturkk">GitHub</a></li>
         <li><a href="https://www.buymeacoffee.com/UmutEfe"><img src="https://img.buymeacoffee.com/button-api/?text=Bana bir kahve ısmarla&emoji=&slug=UmutEfe&button_colour=FFDD00&font_colour=000000&font_family=Çerez&outline_colour=000000&coffee_colour=ffffff" /></a></li>
       
    </ul>
